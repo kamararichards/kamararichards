@@ -1,4 +1,4 @@
-## I drive business transformation through data and analytics
+### I drive business transformation through data and analytics
 
 - 👋 Hi, I’m @kamararichards
 - 👀 I’m interested in improving my skills in R and SQL
