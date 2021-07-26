@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @kamararichards
+- 👀 I’m interested in improving my skills in R and SQL
+- 🌱 My next goal will be to learn Python
+- 💞️ I’m looking to collaborate on R and SQL
+- 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/kamararichards/
+
+
+<!---
+kamararichards/kamararichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
