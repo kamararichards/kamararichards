@@ -1,6 +1,7 @@
+# 👋 Hi, I’m Kamara!
+
 ### I drive business transformation through data and analytics 🎆
 
-- 👋 Hi, I’m Kamara
 - ✍ You can find my projects here [portfolio](https://github.com/kamararichards/PortfolioProjects)
 - 👀 I’m interested in improving my skills in R and SQL
 - 🥅 My next goal will be to learn Python
