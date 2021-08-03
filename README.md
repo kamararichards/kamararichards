@@ -17,8 +17,9 @@
 <img align="left" alt="SQL" width="60px" src="https://github.com/kamararichards/Images/blob/main/Excel.png" />
 <img align="left" alt="SQL" width="60px" src="https://github.com/kamararichards/Images/blob/main/SQL.png" />
 <img align="left" alt="GitHub" width="60px" src="https://github.com/kamararichards/Images/blob/main/Git%20Hub%20Logo%202.png" />
-<img align="left" alt="GitHub" width="40px" src="https://github.com/kamararichards/Images/blob/main/ibm_spss_logo.png" />
-<img align="left" alt="GitHub" width="60px" src="https://github.com/kamararichards/Images/blob/main/Eviews%202.png" />
+<img align="left" alt="SPSS" width="40px" src="https://github.com/kamararichards/Images/blob/main/ibm_spss_logo.png" />
+<img align="left" alt="Eviews" width="40px" src"https://github.com/kamararichards/Images/blob/main/Eviews%203.png" />
+<img align="left" alt="Eviews" width="40px" src"https://github.com/kamararichards/Images/blob/main/Eviews%204.jpg" />
 
 <!---
 kamararichards/kamararichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
