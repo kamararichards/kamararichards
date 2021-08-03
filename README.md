@@ -16,7 +16,7 @@
 ### Languages and Tools:
 <img align="left" alt="SQL" width="60px" src="https://github.com/kamararichards/Images/blob/main/Excel.png" />
 <img align="left" alt="SQL" width="60px" src="https://github.com/kamararichards/Images/blob/main/SQL.png" />
-<img align="left" alt="GitHub" width="40px" src="https://github.com/kamararichards/Images/blob/main/GitHub-logo.jpg" />
+<img align="left" alt="GitHub" width="60px" src="https://github.com/kamararichards/Images/blob/main/Git%20Hub%20Logo%202.png" />
 
 
 <!---
