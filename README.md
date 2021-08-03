@@ -6,7 +6,7 @@
 - 👀 I’m interested in improving my skills in R and SQL
 - 🥅 My next goal will be to learn Python
 - 💞️ I’m looking to collaborate on R and SQL
-- ⚡ My favorite comfort food is chocolate mint icecream
+- ⚡ Fun Fact: My favorite comfort food is chocolate mint icecream
 
 ### Talk with me, I would like to meet you:
 [<img align="left" alt="kamararichards | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kamararichards/)
