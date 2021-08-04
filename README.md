@@ -24,7 +24,7 @@
 <br />
 
 ### Project Management Tools:
-<img align="left" alt="Monday" width="60px" src="https://github.com/kamararichards/Images/blob/main/monday%20logo.png" />
+<img align="left" alt="Monday" width="100px" src="https://github.com/kamararichards/Images/blob/main/monday%20logo.png" />
 
 <!---
 kamararichards/kamararichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
