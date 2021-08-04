@@ -12,6 +12,7 @@
 [<img align="left" alt="kamararichards | LinkedIn" width="30px" src="https://github.com/kamararichards/Images/blob/main/linkedin.png" />](https://www.linkedin.com/in/kamararichards/)
 
 <br />
+<br />
 
 ### Languages and Tools:
 <img align="left" alt="Excel" width="60px" src="https://github.com/kamararichards/Images/blob/main/Excel.png" />
@@ -22,11 +23,13 @@
 <img align="left" alt="GitHub" width="60px" src="https://github.com/kamararichards/Images/blob/main/Git%20Hub%20Logo%202.png" />
 
 <br />
+<br />
 
 ### Project Management Tools:
 <img align="left" alt="Monday" width="120px" src="https://github.com/kamararichards/Images/blob/main/monday%20logo.png" />
 <img align="left" alt="Asana" width="80px" src="https://github.com/kamararichards/Images/blob/main/Asana_logo%203.png" />
 
+<br />
 <br />
 
 ### Customer Relationship Management (CRM):
