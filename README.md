@@ -25,7 +25,7 @@
 
 ### Project Management Tools:
 <img align="left" alt="Monday" width="120px" src="https://github.com/kamararichards/Images/blob/main/monday%20logo.png" />
-<img align="left" alt="Asana" width="80px" src="https://github.com/kamararichards/Images/blob/main/Asana%20logo%202.png" />
+<img align="left" alt="Asana" width="80px" src="https://github.com/kamararichards/Images/blob/main/Asana_logo%203.png" />
 
 
 <!---
