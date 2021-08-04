@@ -7,11 +7,10 @@
 - 🥅 My next goal will be to learn Python
 - 💞️ I’m looking to collaborate on R and SQL
 - ⚡ Fun Fact: My favorite comfort food is chocolate mint icecream
-<br />
 
 ### Talk with me, I would like to meet you:
 [<img align="left" alt="kamararichards | LinkedIn" width="30px" src="https://github.com/kamararichards/Images/blob/main/linkedin.png" />](https://www.linkedin.com/in/kamararichards/)
-<br />
+
 <br />
 
 ### Languages and Tools:
@@ -21,13 +20,13 @@
 <img align="left" alt="Eviews" width="80px" src="https://github.com/kamararichards/Images/blob/main/Eviews%204.jpg" />
 <img align="left" alt="Nvivo" width="80px" src="https://github.com/kamararichards/Images/blob/main/NVivo_Logo.png" />
 <img align="left" alt="GitHub" width="60px" src="https://github.com/kamararichards/Images/blob/main/Git%20Hub%20Logo%202.png" />
-<br />
+
 <br />
 
 ### Project Management Tools:
 <img align="left" alt="Monday" width="120px" src="https://github.com/kamararichards/Images/blob/main/monday%20logo.png" />
 <img align="left" alt="Asana" width="80px" src="https://github.com/kamararichards/Images/blob/main/Asana_logo%203.png" />
-<br />
+
 <br />
 
 ### Customer Relationship Management (CRM):
