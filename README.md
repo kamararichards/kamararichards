@@ -27,6 +27,10 @@
 <img align="left" alt="Monday" width="120px" src="https://github.com/kamararichards/Images/blob/main/monday%20logo.png" />
 <img align="left" alt="Asana" width="80px" src="https://github.com/kamararichards/Images/blob/main/Asana_logo%203.png" />
 
+<br />
+
+### Customer Relationship Management (CRM):
+<img align="left" alt="Monday" width="120px" src="https://github.com/kamararichards/Images/blob/main/monday%20logo.png" />
 
 <!---
 kamararichards/kamararichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
