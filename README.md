@@ -14,23 +14,23 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Excel" width="60px" src="https://github.com/kamararichards/Images/blob/main/Excel.png" />
-<img align="left" alt="SQL" width="60px" src="https://github.com/kamararichards/Images/blob/main/SQL.png" />
-<img align="left" alt="SPSS" width="80px" src="https://github.com/kamararichards/Images/blob/main/spss%20logo%202.png" />
-<img align="left" alt="Eviews" width="80px" src="https://github.com/kamararichards/Images/blob/main/Eviews%204.jpg" />
-<img align="left" alt="Nvivo" width="80px" src="https://github.com/kamararichards/Images/blob/main/NVivo_Logo.png" />
-<img align="left" alt="GitHub" width="60px" src="https://github.com/kamararichards/Images/blob/main/Git%20Hub%20Logo%202.png" />
+<img align="left" alt="Excel" width="50px" src="https://github.com/kamararichards/Images/blob/main/Excel.png" />
+<img align="left" alt="SQL" width="50px" src="https://github.com/kamararichards/Images/blob/main/SQL.png" />
+<img align="left" alt="SPSS" width="70px" src="https://github.com/kamararichards/Images/blob/main/spss%20logo%202.png" />
+<img align="left" alt="Eviews" width="70px" src="https://github.com/kamararichards/Images/blob/main/Eviews%204.jpg" />
+<img align="left" alt="Nvivo" width="70px" src="https://github.com/kamararichards/Images/blob/main/NVivo_Logo.png" />
+<img align="left" alt="GitHub" width="50px" src="https://github.com/kamararichards/Images/blob/main/Git%20Hub%20Logo%202.png" />
 
 <br />
 
 ### Project Management Tools:
-<img align="left" alt="Monday" width="120px" src="https://github.com/kamararichards/Images/blob/main/monday%20logo.png" />
-<img align="left" alt="Asana" width="80px" src="https://github.com/kamararichards/Images/blob/main/Asana_logo%203.png" />
+<img align="left" alt="Monday" width="110px" src="https://github.com/kamararichards/Images/blob/main/monday%20logo.png" />
+<img align="left" alt="Asana" width="70px" src="https://github.com/kamararichards/Images/blob/main/Asana_logo%203.png" />
 
 <br />
 
 ### Customer Relationship Management (CRM):
-<img align="left" alt="Monday" width="120px" src="https://github.com/kamararichards/Images/blob/main/monday%20logo.png" />
+<img align="left" alt="Monday" width="110px" src="https://github.com/kamararichards/Images/blob/main/monday%20logo.png" />
 
 <!---
 kamararichards/kamararichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
