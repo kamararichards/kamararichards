@@ -21,6 +21,9 @@
 <img align="left" alt="Nvivo" width="80px" src="https://github.com/kamararichards/Images/blob/main/NVivo_Logo.png" />
 <img align="left" alt="GitHub" width="60px" src="https://github.com/kamararichards/Images/blob/main/Git%20Hub%20Logo%202.png" />
 
+### Project Management Tools:
+<img align="left" alt="Excel" width="60px" src="https://github.com/kamararichards/Images/blob/main/Excel.png" />
+
 <!---
 kamararichards/kamararichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
