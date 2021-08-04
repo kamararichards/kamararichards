@@ -19,7 +19,7 @@
 <img align="left" alt="SPSS" width="80px" src="https://github.com/kamararichards/Images/blob/main/spss%20logo%202.png" />
 <img align="left" alt="Eviews" width="80px" src="https://github.com/kamararichards/Images/blob/main/Eviews%204.jpg" />
 <img align="left" alt="Nvivo" width="80px" src="https://github.com/kamararichards/Images/blob/main/NVivo_Logo.png" />
-<img align="left" alt="GitHub" width="80px" src="https://github.com/kamararichards/Images/blob/main/Git%20Hub%20Logo%202.png" />
+<img align="left" alt="GitHub" width="70px" src="https://github.com/kamararichards/Images/blob/main/Git%20Hub%20Logo%202.png" />
 
 <!---
 kamararichards/kamararichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
