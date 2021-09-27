@@ -13,7 +13,7 @@
 
 <br />
 
-### Languages and Analytics Tools:
+### Languages and Data Analytics Tools:
 - [x] SQL
 - [x] R Programming
 - [x] Microsoft Excel
@@ -30,7 +30,7 @@
 
 <br />
 
-### Questionnaire Design and Anaalysis:
+### Questionnaire Design and Analysis:
 - [x] Survey Monkey
 - [x] Qualtrics
 - [x] Jotform
