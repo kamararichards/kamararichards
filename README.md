@@ -51,6 +51,17 @@
 ### Customer Relationship Management (CRM):
 - [x] Monday.com
 
+<br />
+
+### Work Experience:
+
+| Company                       | Job Title                                          | Sector     |
+| ------------------------------| ---------------------------------------------------|------------|
+| CQ Consulting Services Inc    | Strategy and Analytics Manager                     | Finance    |
+| JMMB Group Ltd                | Manager Strategy Execution and Product Development | Finance    |
+| Development Bank of Jamaica   | Research and Business Analytics Manager            | Finance    |
+| Urban Development Corporation | Business Analyst                                   | Government |
+
 <!---
 kamararichards/kamararichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
