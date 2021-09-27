@@ -55,12 +55,12 @@
 
 ### Work Experience:
 
-| Company                       | Job Title                                          | Sector     |
-| ------------------------------| ---------------------------------------------------|------------|
-| CQ Consulting Services Inc    | Strategy and Analytics Manager                     | Finance    |
-| JMMB Group Ltd                | Manager Strategy Execution and Product Development | Finance    |
-| Development Bank of Jamaica   | Research and Business Analytics Manager            | Finance    |
-| Urban Development Corporation | Business Analyst                                   | Government |
+| Company                       | Job Title                                          | Sector     |Duration            |
+| ------------------------------| ---------------------------------------------------|------------|--------------------|
+| CQ Consulting Services Inc    | Strategy and Analytics Manager                     | Finance    |Apr 2020 - Present  |
+| JMMB Group Ltd                | Manager Strategy Execution and Product Development | Finance    |Mar 2016 - Jun 2019 |
+| Development Bank of Jamaica   | Research and Business Analytics Manager            | Finance    |Feb 2012 - Mar 2016 |
+| Urban Development Corporation | Business Analyst                                   | Government |Feb 2010 - Feb 2012 |
 
 <!---
 kamararichards/kamararichards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
