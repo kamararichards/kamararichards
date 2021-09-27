@@ -9,7 +9,7 @@
 - ⚡ Fun Fact: My favorite comfort food is chocolate mint icecream
 
 ### Talk with me, I would like to meet you:
-[<img align="left" alt="kamararichards | LinkedIn" width="30px" src="https://github.com/kamararichards/Images/blob/main/linkedin.png" />](https://www.linkedin.com/in/kamararichards/)
+[View LinkedIn Profile](https://www.linkedin.com/in/kamararichards/)
 
 <br />
 
