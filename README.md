@@ -23,14 +23,14 @@
 
 <br />
 
-### Data Visualization:
+### Data Visualization Tools:
 - [x] Microsoft Excel
 - [x] Tableau
 - [x] Power BI
 
 <br />
 
-### Questionnaire Design and Analysis:
+### Questionnaire Design and Analysis Tools:
 - [x] Survey Monkey
 - [x] Qualtrics
 - [x] Jotform
