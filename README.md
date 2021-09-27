@@ -14,6 +14,12 @@
 <br />
 
 ### Languages and Tools:
+- [x] Microsoft Excel
+- [x] SQL
+- [x] SPSS
+- [x] Eviews
+- [x] Nvivo
+- [x] Github
 <img align="left" alt="Excel" width="50px" src="https://github.com/kamararichards/Images/blob/main/Excel.png" />
 <img align="left" alt="SQL" width="50px" src="https://github.com/kamararichards/Images/blob/main/SQL.png" />
 <img align="left" alt="SPSS" width="70px" src="https://github.com/kamararichards/Images/blob/main/spss%20logo%202.png" />
